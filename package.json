@@ -1,0 +1,23 @@
+{
+  "name": "software-dev-course-unit-testing",
+  "version": "1.0.0",
+  "description": "This is the README.md file! I, as the presenter, will fill it with content!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JyotiBharti87/software-dev-course-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JyotiBharti87/software-dev-course-unit-testing/issues"
+  },
+  "homepage": "https://github.com/JyotiBharti87/software-dev-course-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
